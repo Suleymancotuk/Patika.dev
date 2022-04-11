@@ -1,3 +1,3 @@
 # Patika.dev
 Yaptığım Ödevler
-www.patika.dev 
+www.patika.dev/suleymancotuk
