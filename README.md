@@ -1,2 +1,2 @@
-# Patika.dev
+# www.Patika.dev
 Yaptığım Ödevler
